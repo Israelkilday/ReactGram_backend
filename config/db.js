@@ -19,6 +19,8 @@ const conn = async () => {
 
 conn();
 
+module.exports = conn;
+
 
 
 // conection
